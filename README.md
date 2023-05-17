@@ -59,7 +59,7 @@ Install the necessary dependencies by following the instructions in the installa
 
 3. Run the 'loan-eligibility-prediction-using-ml'.py script:
 
-# "python loan_eligibility_prediction.py"
+# "python loan_eligibility_prediction-using-ml.py"
 
 4. The script will preprocess the data, train the machine learning models, and generate predictions for loan eligibility.
 
