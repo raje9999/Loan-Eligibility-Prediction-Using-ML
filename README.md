@@ -41,7 +41,7 @@ Install the necessary dependencies by following the instructions in the installa
 
 1.4.1 Clone the repository:
 
-# "git clone https://github.com/raje9999/loan-eligibility-prediction-using-machine-learning.git"
+# "git clone https://github.com/raje9999/Loan-Eligibility-Prediction-Using-ML"
 
 1.4.2. Navigate to the project directory:
 
