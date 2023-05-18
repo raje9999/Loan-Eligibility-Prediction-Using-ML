@@ -28,7 +28,7 @@ The dataset used for this project contains historical loan data with correspondi
 1.2.9Loan Eligibility: The target variable indicating loan eligibility (binary value: Yes/No).
 The dataset is split into training and testing sets to train and evaluate the machine learning models.
 # Dataset Link
-# https://www.kaggle.com/datasets/burak3ergun/loan-data-set
+https://www.kaggle.com/datasets/burak3ergun/loan-data-set
 
 # 1.3 Dependencies
 The following dependencies are required to run the project:
@@ -43,7 +43,7 @@ Install the necessary dependencies by following the instructions in the installa
 
 1.4.1 Clone the repository:
 
-# "git clone https://github.com/raje9999/Loan-Eligibility-Prediction-Using-ML"
+"git clone https://github.com/raje9999/Loan-Eligibility-Prediction-Using-ML"
 
 1.4.2. Navigate to the project directory:
 
